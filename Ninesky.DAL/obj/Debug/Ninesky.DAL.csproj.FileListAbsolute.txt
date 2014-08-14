@@ -1,0 +1,14 @@
+F:\ASP.net\Ninesky\Ninesky.DAL\bin\Debug\Ninesky.DAL.dll.config
+F:\ASP.net\Ninesky\Ninesky.DAL\bin\Debug\Ninesky.DAL.dll
+F:\ASP.net\Ninesky\Ninesky.DAL\bin\Debug\Ninesky.DAL.pdb
+F:\ASP.net\Ninesky\Ninesky.DAL\bin\Debug\EntityFramework.dll
+F:\ASP.net\Ninesky\Ninesky.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\ASP.net\Ninesky\Ninesky.DAL\bin\Debug\Ninesky.IDAL.dll
+F:\ASP.net\Ninesky\Ninesky.DAL\bin\Debug\Ninesky.Models.dll
+F:\ASP.net\Ninesky\Ninesky.DAL\bin\Debug\Ninesky.IDAL.pdb
+F:\ASP.net\Ninesky\Ninesky.DAL\bin\Debug\Ninesky.Models.pdb
+F:\ASP.net\Ninesky\Ninesky.DAL\bin\Debug\EntityFramework.xml
+F:\ASP.net\Ninesky\Ninesky.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\ASP.net\Ninesky\Ninesky.DAL\obj\Debug\Ninesky.DAL.csprojResolveAssemblyReference.cache
+F:\ASP.net\Ninesky\Ninesky.DAL\obj\Debug\Ninesky.DAL.dll
+F:\ASP.net\Ninesky\Ninesky.DAL\obj\Debug\Ninesky.DAL.pdb

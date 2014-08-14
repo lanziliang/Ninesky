@@ -1,0 +1,4 @@
+F:\ASP.net\Ninesky\Ninesky.Common\bin\Debug\Ninesky.Common.dll
+F:\ASP.net\Ninesky\Ninesky.Common\bin\Debug\Ninesky.Common.pdb
+F:\ASP.net\Ninesky\Ninesky.Common\obj\Debug\Ninesky.Common.dll
+F:\ASP.net\Ninesky\Ninesky.Common\obj\Debug\Ninesky.Common.pdb
